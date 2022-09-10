@@ -1,1 +1,1 @@
-hello puts
+Write a C program that prints
