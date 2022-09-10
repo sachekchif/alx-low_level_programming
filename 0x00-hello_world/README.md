@@ -1,1 +1,1 @@
-Write a C program that prints
+0x00. C - Hello, World
