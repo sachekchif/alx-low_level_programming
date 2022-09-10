@@ -21,7 +21,7 @@ int main(void)
 	else if (L == 0)
 		printf("%s %d is %d and is 0\n", str, n, L);
 	else if (L > 6)
-		printf("%s %d is %d and is less than 6 and not 0\n", str, n, L);
+		printf("%s %s of -98 is -8  and is less than 6 and not 0\n", Last, digit);
 
 	return (0);
 }
