@@ -1,1 +1,1 @@
-writing c programs
+0x0A. C - argc, argv
